@@ -1,8 +1,3 @@
-/**********
-* Imports *
-**********/
-import { Color } from "color.js";
-
 /*******************
 * Global variables *
 *******************/
